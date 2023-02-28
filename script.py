@@ -10,7 +10,7 @@ def my_method1():
     # Edit during merging
     return False
 
-a = 2
+a = 5
 b = 5
 
 def Method2():
