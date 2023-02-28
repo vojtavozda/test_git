@@ -4,6 +4,7 @@ def my_method1():
     return False
 
 a = 2
+b = 5
 
 def Method2():
     # Second commit
