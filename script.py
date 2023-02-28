@@ -20,3 +20,5 @@ def Method2():
 
 # One commit duo2
 # a
+# b
+# c
