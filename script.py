@@ -1,5 +1,8 @@
 a = 5
 
+def my_new_method():
+    # Wow!
+
 def my_method1():
     # First commit
     # Edit in tempbranch
