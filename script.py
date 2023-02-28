@@ -1,5 +1,6 @@
 def my_new_method():
     # Wow!
+    return 6
 
 def my_method1():
     # First commit
