@@ -3,4 +3,5 @@ def my_method1():
     return False
 
 def Method2():
+    # Second commit
     return True
